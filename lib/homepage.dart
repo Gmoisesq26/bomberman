@@ -1,6 +1,8 @@
 import 'dart:async';
 
 import 'package:bomberman/button.dart';
+import 'package:bomberman/pixel.dart';
+import 'package:bomberman/player_lives.dart';
 import 'package:flutter/material.dart';
 
 class HomePage extends StatefulWidget {
